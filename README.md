@@ -1,4 +1,4 @@
-# HybridMPCMLD2Dsystem
+# HybridMPC-MLD2Dsystem
 
 To run simulations:
 
