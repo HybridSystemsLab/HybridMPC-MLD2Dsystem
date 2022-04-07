@@ -14,7 +14,6 @@ function plotting(T_p,T_f,u_f,x_1,x_2,u_)
 t0=0:T_p*(T_f-1);
 t=0:T_p*(T_f);
 
-figure(6)
 subplot(2,1,2)
 plot(t0,u_,'LineWidth', 1)
 xlabel('$\ell$','interpreter','latex')
